@@ -1,1 +1,1 @@
-# mafs-pojectile!
+# mafs-projectile-motion
